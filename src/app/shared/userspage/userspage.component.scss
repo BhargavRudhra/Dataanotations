@@ -1,0 +1,49 @@
+.block-button{
+  display: flex;
+  align-items: center;
+  border-radius: 15px;
+  height: 25px;
+  width: 70px;
+}
+
+
+.first-progress-main-div{
+  display: flex;
+  justify-content: space-between;
+}
+.tasks-active{
+  padding-left: 10px;
+}
+.paragraph-1{
+  padding-right: 10px;
+}
+.first-progress-div{
+  padding: 10px;
+}
+.first-progress{
+  height: 4px;
+}
+
+.timing-div{
+  display: flex;
+  padding: 20px;
+  margin-left: 140px;
+}
+.thismonth-tag{
+  color: rgb(82, 82, 234);
+}
+
+.lists-div{
+  margin-top: 40px;
+  margin-left: 280px;
+}
+
+.circle-progress-div{
+  border: solid 4px rgb(220, 213, 213);
+  border-radius: 120px;
+  height: 150px;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  padding: 55px;
+}

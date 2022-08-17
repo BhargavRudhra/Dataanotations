@@ -1,0 +1,191 @@
+.main-header{
+  background-color: #f9f9f9;
+}
+.sub-header{
+  display: flex;
+  padding-top: 25px;
+  background-color: #f9f9f9;
+}
+.client-header{
+  margin-left: 335px;
+}
+.create-workflow-button-div{
+  margin-top: 5px;
+  margin-left: 210px;
+}
+.create-workflow-btn{
+  border-radius: 20px;
+  // border-color: rgb(68, 147, 147);
+  background-color: white;
+  color: rgb(68, 147, 147);
+}
+.search-input-div{
+  margin-top: 5px;
+  margin-left: 15px;
+}
+.search-bar{
+  border-radius: 20px;
+  background-color: white;
+  color: black;
+}
+.table-div{
+  background-color: #f9f9f9;
+}
+.subtable-div{
+  width: 100vw;
+}
+.main-table{
+  padding: 0px;
+}
+.table-heading-t{
+  // height: 50px;
+}
+.analytics-main-div{
+  display: flex;
+  justify-content: space-between;
+}
+.analytics-div{
+  display: flex;
+  padding: 10px ;
+}
+.analytics-header{
+  font-weight: 450;
+}
+.timing-div{
+  display: flex;
+  padding: 20px;
+}
+.amazon-button-div{
+  padding: 5px;
+}
+.amazon-button{
+  background-color: rgb(251, 209, 131);
+  color: orange;
+  border: 0ch;
+  border-radius: 7px;
+}
+.google-button-div{
+  padding: 5px;
+}
+.google-button{
+  background-color: rgb(135, 204, 135);
+  color: green;
+  border: 0ch;
+  border-radius: 7px;
+}
+.thismonth-tag{
+  color: rgb(82, 82, 234);
+}
+
+
+
+
+
+.first-progress-main-div{
+  display: flex;
+  justify-content: space-between;
+}
+.tasks-active{
+  padding-left: 10px;
+}
+.paragraph-1{
+  padding-right: 10px;
+}
+.first-progress-div{
+  padding: 10px;
+}
+.first-progress{
+  height: 4px;
+}
+
+.second-progress-main-div{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+}
+.tasks-completed{
+  padding-left: 10px;
+}
+.paragraph-2{
+  padding-right: 10px;
+}
+.second-progress-div{
+  padding: 10px;
+}
+.second-progress{
+  height: 4px;
+}
+
+.third-progress-main-div{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+}
+.assigned-users{
+  padding-left: 10px;
+}
+.paragraph-3{
+  padding-right: 10px;
+}
+.third-progress-div{
+  padding: 10px;
+}
+.third-progress{
+  height: 4px;
+}
+
+.fourth-progress-main-div{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+}
+.active-users{
+  padding-left: 10px;
+}
+.paragraph-4{
+  padding-right: 10px;
+}
+.fourth-progress-div{
+  padding: 10px;
+}
+.fourt-progress{
+  height: 4px;
+}
+
+
+.fifth-progress-main-div{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+}
+.idle-users{
+  padding-left: 10px;
+}
+.paragraph-5{
+  padding-right: 10px;
+}
+.fifth-progress-div{
+  padding: 10px;
+}
+.fifth-progress{
+  height: 4px;
+}
+
+
+.sixth-progress-main-div{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+}
+.total-time-spent{
+  padding-left: 10px;
+}
+.paragraph-6{
+  padding-right: 10px;
+}
+.sixth-progress-div{
+  padding: 10px;
+}
+.sixth-progress{
+  height: 4px;
+}
